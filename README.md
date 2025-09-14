@@ -1,7 +1,5 @@
 HackWesTX2025 — Physical Lichess Board
 
-(yes, this readme is generated with AI. It's much better at this than I am)
-
 ======================================
 
 
