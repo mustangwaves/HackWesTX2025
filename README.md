@@ -1,7 +1,9 @@
 HackWesTX2025 — Physical Lichess Board
+======================================
+Project Showcase
+https://youtu.be/vnubYaI1xLQ
 
 ======================================
-
 
 
 Play on Lichess using a real 4×4 membrane keypad on an Arduino Uno R3.
